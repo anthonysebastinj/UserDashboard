@@ -16,7 +16,7 @@ Follow these steps to set up and run the project locally:
 
 Ensure you have Node.js and npm/yarn installed
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/anthonysebastinj/UserDashboard.git
 cd your-repo
 
 Install Dependencies : 
